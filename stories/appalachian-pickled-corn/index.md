@@ -13,7 +13,7 @@ tags:
 ---
 
 # Appalachian Pickled Corn
-This is a test of a change 
+This story comes from Sandy Woods, my grandma. She grew up in West Verginia on the family farm which they later sold to by a small grocery store. She moved away from West Verginia to go to college and became a high school math teacher. She is now retired and lives in New Mexico.
 
 {% include figure.html
   class="right"
